@@ -15,8 +15,3 @@ build:
   project: Ejemplo NetCore.sln
   verbosity: minimal
   
-only_commits:
-  files:
-    - appveyor.yml
-    - src/
-    - test/
